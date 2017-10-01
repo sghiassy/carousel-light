@@ -1,0 +1,27 @@
+openapi: 3.0.0
+info:
+  description: Carousel-Light
+  version: "1.0.0"
+  title: Gorpon's Test Version of a Light Carousel
+  contact:
+    email: shaheen@groupon.com
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+tags:
+  - name: admins
+    description: Secured Admin-only calls
+  - name: developers
+    description: Operations available to regular developers
+servers:  
+- url: https://carousel-light.groupon.com
+  description: The main prod server
+paths:
+  /:
+    get:
+      summary: homepage
+      description: |
+        This is the main page
+      responses:
+        '200':
+          description: Show the main carousel
