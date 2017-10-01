@@ -1,0 +1,16 @@
+{
+  "name": "carousel-light",
+  "version": "1.0.0",
+  "description": "[![CI Status](http://img.shields.io/travis/Shaheen Ghiassy/carousel-light.svg?style=flat)](https://travis-ci.org/Shaheen Ghiassy/carousel-light) [![Version](https://img.shields.io/cocoapods/v/carousel-light.svg?style=flat)](http://cocoapods.org/pods/carousel-light) [![License](https://img.shields.io/cocoapods/l/carousel-light.svg?style=flat)](http://cocoapods.org/pods/carousel-light) [![Platform](https://img.shields.io/cocoapods/p/carousel-light.svg?style=flat)](http://cocoapods.org/pods/carousel-light)",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd Example; pod install; cd -",
+    "x": "open Example/carousel-light.xcworkspace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.groupondev.com:shaheen/carousel-light.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

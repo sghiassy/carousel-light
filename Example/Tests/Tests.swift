@@ -2,7 +2,7 @@
 
 import Quick
 import Nimble
-import carousel-light
+import carousel_light
 
 class TableOfContentsSpec: QuickSpec {
     override func spec() {
