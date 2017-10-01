@@ -1,0 +1,6 @@
+framework module Pods_carousel_light_Example {
+  umbrella header "Pods-carousel-light_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
