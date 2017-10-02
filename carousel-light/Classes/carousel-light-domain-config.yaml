@@ -1,19 +1,15 @@
-openapi: 3.0.0
+---
+airgapapi: 0.0.1
 info:
   description: Carousel-Light
   version: "1.0.0"
-  title: Gorpon's Test Version of a Light Carousel
+  title: Gorpon's main Carousel
   contact:
     email: shaheen@groupon.com
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
-tags:
-  - name: admins
-    description: Secured Admin-only calls
-  - name: developers
-    description: Operations available to regular developers
-servers:  
+domain:
   - url: carousel-light.groupon.com
     description: The main prod server
 paths:
