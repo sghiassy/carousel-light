@@ -3,13 +3,14 @@ use_frameworks!
 
 target 'carousel-light_Example' do
   pod 'carousel-light', :path => '../'
+  pod 'AirGap', :path => '../../air-gap/'
 
   target 'carousel-light_Tests' do
     inherit! :search_paths
 
     pod 'Quick', '~> 1.0.0'
-  pod 'Nimble', '~> 5.1.1'
-  pod 'FBSnapshotTestCase'
-  pod 'Nimble-Snapshots'
+    pod 'Nimble', '~> 5.1.1'
+    pod 'FBSnapshotTestCase'
+    pod 'Nimble-Snapshots'
   end
 end
