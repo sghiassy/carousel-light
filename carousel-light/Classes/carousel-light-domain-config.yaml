@@ -14,8 +14,8 @@ tags:
   - name: developers
     description: Operations available to regular developers
 servers:  
-- url: https://carousel-light.groupon.com
-  description: The main prod server
+  - url: carousel-light.groupon.com
+    description: The main prod server
 paths:
   /:
     get:
@@ -25,3 +25,5 @@ paths:
       responses:
         '200':
           description: Show the main carousel
+          type: UIKit/UIViewController
+          file: CarouselLightViewController.swift
