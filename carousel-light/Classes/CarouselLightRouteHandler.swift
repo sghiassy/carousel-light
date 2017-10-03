@@ -10,6 +10,8 @@ import AirGap
 
 class CarouselLightRouteHandler: RouteHandlerServer {
     override open func routes(server:Server) {
-        server.VC = CarouselLightViewController.self
+        server.onSHOW("/") { (req, res) in
+            res.viewC = CarouselLightViewController()
+        }
     }
 }
