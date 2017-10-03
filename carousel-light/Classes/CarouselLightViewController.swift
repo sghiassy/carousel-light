@@ -32,11 +32,11 @@ public class CarouselLightViewController: UIViewController {
     }
     
     @objc func userDidSelectDeal(sender: UITapGestureRecognizer) {
-        Browser.goto("dealdetails.groupon.com/omsi")
+        Browser.show("dealdetails.groupon.com/omsi")
     }
     
     @objc func userDidSelectMore(sender: UITapGestureRecognizer) {
-        Browser.goto("carousel.groupon.com")
+        Browser.show("carousel.groupon.com")
     }
     
 }
