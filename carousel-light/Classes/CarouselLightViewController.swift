@@ -32,10 +32,12 @@ public class CarouselLightViewController: UIViewController {
     }
     
     @objc func userDidSelectDeal(sender: UITapGestureRecognizer) {
-        Browser.show("dealdetails.groupon.com/omsi")
+        Browser.post("mga.groupon.com/log", body: ["message" : "GRP420: userDidSelectDeal"])
+        Browser.show("dealdetails.groupon.com/deals/gl-pompeii-the-exhibition-and-the-oregon-museum-of-science-and-industry-omsi-1")
     }
     
     @objc func userDidSelectMore(sender: UITapGestureRecognizer) {
+        Browser.post("mga.groupon.com/log", body: ["message" : "GRP420: userDidSelectMore"])
         Browser.show("carousel.groupon.com")
     }
     
