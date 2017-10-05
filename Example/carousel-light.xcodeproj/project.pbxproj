@@ -12,6 +12,7 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		AA3FFB701F85EE2400CD42F7 /* Airgap.json in Resources */ = {isa = PBXBuildFile; fileRef = AA3FFB6F1F85EE2400CD42F7 /* Airgap.json */; };
 		CDB68B0BDDF82664CABBC244 /* Pods_carousel_light_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6BCA21C1F9D827215F2BC16 /* Pods_carousel_light_Tests.framework */; };
 		CF3F8055098896A717707149 /* Pods_carousel_light_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 454C2929A9AED2B361E20A38 /* Pods_carousel_light_Example.framework */; };
 /* End PBXBuildFile section */
@@ -41,6 +42,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		6BC475ACF64DD4D9AF84792F /* Pods-carousel-light_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-carousel-light_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-carousel-light_Tests/Pods-carousel-light_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		A99F127DAB264959479995AD /* carousel-light.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "carousel-light.podspec"; path = "../carousel-light.podspec"; sourceTree = "<group>"; };
+		AA3FFB6F1F85EE2400CD42F7 /* Airgap.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Airgap.json; path = ../../Airgap.json; sourceTree = "<group>"; };
 		B95B95B58547DA1825E939AD /* Pods-carousel-light_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-carousel-light_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-carousel-light_Example/Pods-carousel-light_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C6BCA21C1F9D827215F2BC16 /* Pods_carousel_light_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_carousel_light_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2E18B7EF44AA61221901702 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 			children = (
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
+				AA3FFB6F1F85EE2400CD42F7 /* Airgap.json */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
 				607FACDE1AFB9204008FA782 /* LaunchScreen.xib */,
 				607FACD31AFB9204008FA782 /* Supporting Files */,
@@ -246,6 +249,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
+				AA3FFB701F85EE2400CD42F7 /* Airgap.json in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

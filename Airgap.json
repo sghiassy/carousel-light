@@ -1,0 +1,7 @@
+{
+    "domains": [{
+        "config" : "carousel-light-domain-config",
+        "bundle" : "org.cocoapods.carousel-light"
+      }
+    ]
+}
