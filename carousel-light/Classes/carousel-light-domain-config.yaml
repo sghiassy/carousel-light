@@ -12,7 +12,7 @@ info:
 domain:
     url: carousel-light.groupon.com
     description: The main prod server
-routeHandler: CarouselLightRouteHandlerrn
+routeHandler: CarouselLightRouteHandler
 paths:
   /:
     get:
