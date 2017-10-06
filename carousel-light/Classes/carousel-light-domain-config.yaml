@@ -15,7 +15,7 @@ domain:
 routeHandler: CarouselLightRouteHandler
 paths:
   /:
-    get:
+    show:
       summary: homepage
       description: |
         This is the main page
