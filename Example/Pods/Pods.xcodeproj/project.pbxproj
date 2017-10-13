@@ -13,30 +13,30 @@
 		055835A025E38405EA9EC5218E6FE1E3 /* ExampleMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841E989F075E10FDDA32AB093CD8DD64 /* ExampleMetadata.swift */; };
 		07722FBCF6B380961B9D2832D5883F45 /* BeGreaterThan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37459D5A393B6FA2AEBF469BB0CA54E2 /* BeGreaterThan.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		094973D2D2F1E3B2E772F93C8147C6B9 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = F2C02558D190DC59526A8AFBAC767222 /* UIApplication+StrictKeyWindow.m */; };
-		0AAB0470BBDD20412F315C2ED6F8D2DF /* carousel-light-domain-config.yaml in Sources */ = {isa = PBXBuildFile; fileRef = 4EF9E1985921DE5D6BD70FC676970AE5 /* carousel-light-domain-config.yaml */; };
+		0AAB0470BBDD20412F315C2ED6F8D2DF /* carousel-light-domain-config.yaml in Sources */ = {isa = PBXBuildFile; fileRef = B2B53C0649CFC3E9D26780662F2D4790 /* carousel-light-domain-config.yaml */; };
 		0AEC20AACF9B10846830274E3B2AA6FD /* BeLogical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8118D8E33AF68F715533C86766538BA0 /* BeLogical.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		0B55B4674CFB027072445047F4B651B0 /* World+DSL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8274D3BEF68A51F25A76BA16F8C63385 /* World+DSL.swift */; };
 		0C39F8E7446036CE1A03587E4A40F14E /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8C2553DA04CF0251388C272A3107EB2 /* XCTest.framework */; };
 		0E9B5F1C8FA6E50276C372D6626E6FD3 /* Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8E066CAF93FE66FC7AD2EDD1D14223 /* Closures.swift */; };
 		0ECEEBC712D404AA6CF1E76A9284BFF9 /* DSL.h in Headers */ = {isa = PBXBuildFile; fileRef = ED576D94AE439212657C4BEFEC11C9DB /* DSL.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0F9549B756D89ECFE9EDEB7D30A81489 /* RouteHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA82172E5ACF1FCC64390097989F58FC /* RouteHandler.swift */; };
+		0F9549B756D89ECFE9EDEB7D30A81489 /* RouteHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561BC50E154C18F663AC03E581659CD5 /* RouteHandler.swift */; };
 		108D9BF2EFD6321B29C74593EB717F98 /* YAMLResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A33FBE4FCCD16D603BF5F37FE58916A /* YAMLResult.swift */; };
 		110A640A9BE45841BA938B4C29EF5446 /* ThrowAssertion.swift in Sources */ = {isa = PBXBuildFile; fileRef = B836C1459A149924E500096B527FDCD1 /* ThrowAssertion.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		1250861473281A12D0EF7F7D724BE42E /* World+DSL.h in Headers */ = {isa = PBXBuildFile; fileRef = 1672E3DD9F52E574C1B7CED459ED6FAE /* World+DSL.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		127CD37052B8E0BC645D83D4664F59D4 /* NMBStringify.m in Sources */ = {isa = PBXBuildFile; fileRef = 0166E160D22CC06D2B45F10AE07D35DE /* NMBStringify.m */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
-		13E1E5F7257CA95F9347CE8676227415 /* carousel-light-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A52BB924C1DBBEECF75D0DBA4849DB8A /* carousel-light-dummy.m */; };
+		13E1E5F7257CA95F9347CE8676227415 /* carousel-light-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 597B5D58DF7D478D03DC0DA5C9A33F54 /* carousel-light-dummy.m */; };
 		15428391434105EA637BE9638664910A /* Pods-carousel-light_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5100D72087FB7047A5E7D29CB4A3255F /* Pods-carousel-light_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		15FF81EA121350E4A29F65EF6665DF3C /* DomainConfigModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1C58EDB713C3975BE0EEABB24C96AD1 /* DomainConfigModel.swift */; };
-		163D8EB9A4AB8D2202D4BCEE0D3C3D4F /* Viewport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C2B3B4CCE8603C9843E29A0F5A91F1C /* Viewport.swift */; };
+		15FF81EA121350E4A29F65EF6665DF3C /* DomainConfigModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C02DDC70FFFA8A4CD34625376B072AE /* DomainConfigModel.swift */; };
+		163D8EB9A4AB8D2202D4BCEE0D3C3D4F /* Viewport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99B3900B2B2844E5003C04FF06028192 /* Viewport.swift */; };
 		17261E344C2027602431A636759AC7F2 /* DSL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E454EC72DF7E41D535FD39127B89406 /* DSL.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
-		195A65A9590AFBC739C16CC409E53A01 /* carousel-light-domain-config.yaml in Resources */ = {isa = PBXBuildFile; fileRef = 4EF9E1985921DE5D6BD70FC676970AE5 /* carousel-light-domain-config.yaml */; };
+		195A65A9590AFBC739C16CC409E53A01 /* carousel-light-domain-config.yaml in Resources */ = {isa = PBXBuildFile; fileRef = B2B53C0649CFC3E9D26780662F2D4790 /* carousel-light-domain-config.yaml */; };
 		19FA0241113C403FC9E5EE3975DD10E2 /* Yaml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41103A684C649418ECEB9BD07225D5B6 /* Yaml.framework */; };
 		1AB7934C16CE49DE196FFC7BE7278287 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7723AD6335382B3C55C8B0C10A683D36 /* SwiftSupport.swift */; };
 		1BE83F05D2C9B417E2BA301860E9EDB2 /* NSBundle+CurrentTestBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240AF70976761059E4E1B68BC81D76A9 /* NSBundle+CurrentTestBundle.swift */; };
-		1C4DD9974FFC54765B925B4594A13B36 /* Toolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A4F2767D5B4564555A6F22775C5763B /* Toolbar.swift */; };
+		1C4DD9974FFC54765B925B4594A13B36 /* Toolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479986E1981139C0B5F91832DD8142DC /* Toolbar.swift */; };
 		1C50F54510D5C2B2AD84D7B74A6EDEBB /* BeGreaterThanOrEqualTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A72D0C6530C4EFB796AE36AD9706C13 /* BeGreaterThanOrEqualTo.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		1C7CA1FAFBF8B865596C739FEA39CDEE /* DSL.m in Sources */ = {isa = PBXBuildFile; fileRef = E6C4980B07B9948900B36149DF948853 /* DSL.m */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
-		20465BE0029F881E78C440D16F39F45B /* Fileloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4859335E93A5CDB1D078128740B82C55 /* Fileloader.swift */; };
+		20465BE0029F881E78C440D16F39F45B /* Fileloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994B321B398B8775FEC88859D1814522 /* Fileloader.swift */; };
 		213A1DFF5B1EA1D2BC554B4399594296 /* AirGap.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EB02416394EA9131D57DDFEE1423908A /* AirGap.framework */; };
 		22C1DE74D494C10BBE727F239A68447D /* ThrowError.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDD0F402FDCFE35155472E0EBDA4EE8 /* ThrowError.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		230A004E016308FA6C00DAF33E7089BB /* NimbleSnapshotsConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = D668854D774CE6E470D8D0CCE346444F /* NimbleSnapshotsConfiguration.swift */; };
@@ -56,13 +56,13 @@
 		4241D721ED6BD52A73CF0698FDFB8F23 /* Pods-carousel-light_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C70C21ABB2D18912D30A443B8DC8B21 /* Pods-carousel-light_Example-dummy.m */; };
 		4647B4889669D5F1E0A7A1C2ECFDFD68 /* QuickSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = B90695CF70A1B44A8AA1703B648E7EBA /* QuickSpec.m */; };
 		469E9C3ED9FD6009F7C9AAF9E537E212 /* Nimble.h in Headers */ = {isa = PBXBuildFile; fileRef = B16082D256FCB14F85351C34539B3194 /* Nimble.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		49EF7D2B320CFB663771E7DB2E27EE49 /* carousel-light-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F8828091A283EF04BFDEA3E3C440FDE2 /* carousel-light-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4D55263983B04B900D52DF37C6E9203B /* YURL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379DC2EF7F69222C6D0414582BA61E33 /* YURL.swift */; };
+		49EF7D2B320CFB663771E7DB2E27EE49 /* carousel-light-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 34BD9AF0DA68C1B92C8BD2641F5ED11F /* carousel-light-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4D55263983B04B900D52DF37C6E9203B /* YURL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 989206853125F0CDB02E407A7D68FD41 /* YURL.swift */; };
 		4F3F103945CC52D0A3B8A891BB0E21C4 /* RaisesException.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4266D0DAD50CD4505C6F9090E41BA1BD /* RaisesException.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		4FEB34672824B33CFA9182A31FFC1F46 /* FBSnapshotTestCase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD5A19F5159F5FAA3FFED288E5BC5FC4 /* FBSnapshotTestCase.framework */; };
 		506D761F91EC3583789A837C559972FE /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5700907C778831AE4A831DB8224A4B72 /* FBSnapshotTestCase-dummy.m */; };
 		50B80F12A9BAE302F07F6CF94752F462 /* mach_excServer.c in Sources */ = {isa = PBXBuildFile; fileRef = 590D9C8385F27CABB206B5B2F713577D /* mach_excServer.c */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
-		511652B13266CB9E5026F7CEDBE1CB06 /* CarouselLightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31A0B1EAC42456078818E9A52765F8AC /* CarouselLightViewController.swift */; };
+		511652B13266CB9E5026F7CEDBE1CB06 /* CarouselLightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F503953B781FB806B92778C98BE8FAE6 /* CarouselLightViewController.swift */; };
 		54E420020AFE589D61F17525C4A1374D /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08806D101E7B5BCD2C75091C3AAF1581 /* Filter.swift */; };
 		551440A0F92574039C1D2EB39227D6B8 /* AsyncMatcherWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5EB0FF8E48A43C3851CC585660A6780 /* AsyncMatcherWrapper.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		57B9EF6BE2F0518A23812367351C2F02 /* URL+FileName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184B707189F0BFDF91523FD3E92B86B9 /* URL+FileName.swift */; };
@@ -84,7 +84,7 @@
 		6E397D9FB11A47E48D70287D734B12B2 /* BeLessThan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 796EA4A226DDEB4299911E05F5E79592 /* BeLessThan.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		71A620E4CCE2D7CCF6A122DC1BAA6622 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFBB7413B313A1D18C0A6243BA27F4A1 /* Foundation.framework */; };
 		737E19F3254F5929263982C29237C0BA /* CwlBadInstructionException.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B8E913E73E6B6B54D069DA4F1AD9442 /* CwlBadInstructionException.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
-		73812438F033C50C9FC3ACCFEF5235C6 /* Browser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1101D9530BBEDB17BD93A8575F74C0C /* Browser.swift */; };
+		73812438F033C50C9FC3ACCFEF5235C6 /* Browser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20EF66DF25DEFE6B7C5B49339E88D738 /* Browser.swift */; };
 		74FD712F3B503891B6BD9E5CD287E481 /* AssertionDispatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE432569DF903BFBDA07D4E72E7FE3D /* AssertionDispatcher.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		752697B2200D273995FA39FC784FACD8 /* YAMLOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C9F945D17467D3AB7C1620CB71E16BA /* YAMLOperators.swift */; };
 		755A6362332861CDD9218ACEE5E17F89 /* Yaml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41103A684C649418ECEB9BD07225D5B6 /* Yaml.framework */; };
@@ -93,11 +93,11 @@
 		760DFF870AF5645C8E86D031BE3E86BE /* ErrorUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F07C16AC6B5D920FD3E24804D810A6 /* ErrorUtility.swift */; };
 		76E385E6336751D9D15321BE337E17AB /* Quick-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 81D0B612FB222E732141B35EC09A2615 /* Quick-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		773452B1D24D19D24001BE8D6CAA93AB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFBB7413B313A1D18C0A6243BA27F4A1 /* Foundation.framework */; };
-		7864CE5FFB8C31BBF7385E68437603EB /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D60FCF3F4EB053A52ADCC762A2328A4 /* back.png */; };
+		7864CE5FFB8C31BBF7385E68437603EB /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F13119FC0BB790A8EFE92F950F57C52 /* back.png */; };
 		78F3DE174B4F8D368EF8EEFD7EE62087 /* BeVoid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA7117CC8D4783D9EF983E9B4B4D25 /* BeVoid.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		7A38FF30472B04B0CFBBA7675A121A46 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8C2553DA04CF0251388C272A3107EB2 /* XCTest.framework */; };
 		7D6269A3CFE53C28DAA6B92E8FC017A7 /* FailureMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EBBD82B562E1ACBA35E677A79DD7C5 /* FailureMessage.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
-		7E3A77900D2219A1A8A00BBA45F22F4C /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C654C401DFA4DAA064DBF16FDFC246 /* Request.swift */; };
+		7E3A77900D2219A1A8A00BBA45F22F4C /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64850C5C27D72C901BA26EFEF896A4A /* Request.swift */; };
 		7E9B14D5F8842A86CA86F2AF45230725 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8C2553DA04CF0251388C272A3107EB2 /* XCTest.framework */; };
 		7F6750C7B1847733370B18C4CBFE32DF /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66173CD0FF87A70D8F44C70D34C1F4AC /* Errors.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		7FEEF5DF31709CE3D1944CB92127B6FC /* QuickSpec.h in Headers */ = {isa = PBXBuildFile; fileRef = C571A0FFFDC3A55054317967727FDD74 /* QuickSpec.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -121,7 +121,7 @@
 		954C921BD469879C91B141282EDBC80B /* ExampleGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EAF960453E79198983D90B0220093D /* ExampleGroup.swift */; };
 		962A46205CE5142ACF735C60E5E7BA41 /* NSURL_QueryDictionary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34DC12BC270BE6139BCD0F0073F86998 /* NSURL_QueryDictionary.framework */; };
 		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = C20C14E8991D2AC2018343C437772B32 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		98C4C9E25ED30A3CA8DF2459ED5C787A /* AirGap-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ABB24CE9DCABA8189B75AB355B1A2ACE /* AirGap-dummy.m */; };
+		98C4C9E25ED30A3CA8DF2459ED5C787A /* AirGap-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C8750E13A4013351F3EE75284C22D53 /* AirGap-dummy.m */; };
 		9954CB54947985ED49530B9A56CDA169 /* XCTestSuite+QuickTestSuiteBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = F734895F84DB1026492F1EBD477EB808 /* XCTestSuite+QuickTestSuiteBuilder.m */; };
 		99741103F7C77BF764C47DD1959A74D4 /* YAMLRegex.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD336CB1FE9BD6D7C8667FA7A932A1DA /* YAMLRegex.swift */; };
 		99D78691DDFCC91D33EF911FCFABFE46 /* QCKDSL.m in Sources */ = {isa = PBXBuildFile; fileRef = D5F3DD6370732BA46D3D20A346DC86C3 /* QCKDSL.m */; };
@@ -132,9 +132,9 @@
 		A448F837592E21D9387322E8DA0DD93F /* BeAnInstanceOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674FE6B9A879CCB94DFF99125F9BBE0F /* BeAnInstanceOf.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		A4955D7632889AA0B201FBE32FCD9D7F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFBB7413B313A1D18C0A6243BA27F4A1 /* Foundation.framework */; };
 		A4F69F3477A935285620AC3031C5C848 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2AF7F7788C29025835944132D6EDD3 /* FBSnapshotTestController.m */; };
-		A4F85BD38519B4D624450B6B08DAA15E /* AirGap-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1B61A4C2F8D75714F4BF1AED05800DB2 /* AirGap-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A4F85BD38519B4D624450B6B08DAA15E /* AirGap-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B0A9E438B2DD9C8C9B4BD5BA7FFBB8D /* AirGap-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A663D272465010B712A743672BF78D0A /* World.h in Headers */ = {isa = PBXBuildFile; fileRef = 85AF6E3C929701A4ABEC03B6333557CB /* World.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		A6D3644FD49190639E62AFE80BBD0012 /* CarouselLightRouteHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CDBAFE8A47A177DBA4AC45926C4AAF /* CarouselLightRouteHandler.swift */; };
+		A6D3644FD49190639E62AFE80BBD0012 /* CarouselLightRouteHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54223315327FB755419A685047725977 /* CarouselLightRouteHandler.swift */; };
 		A91166D0A5E8F1D5D5377622C381C045 /* Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455F70554FBE8277E656048813D3052F /* Match.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		AA5B010DCE62D9E949728C2549953758 /* Pods-carousel-light_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A3DA3ADB0DBD7E2C04D2A48CEF482751 /* Pods-carousel-light_Tests-dummy.m */; };
 		AB255C27EF10E742C6567775022F49D5 /* BeginWith.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E40509ED7DDDE0AA21BF470A28D8C7A /* BeginWith.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
@@ -151,12 +151,12 @@
 		BC952FC04FC963C1294DCD619C9B6B3B /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = ED0544D9A796CE5275D2BC2CEA816387 /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		BDB03D0FF959066E5349FE9299B97140 /* NSURL+QueryDictionary-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5248F8F71C7E157BA32053726B552E03 /* NSURL+QueryDictionary-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BE14F2198CDB0DAD98A567981D21C7A1 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D764E026C3AB803503D9805479F61DC /* FBSnapshotTestCase.m */; };
-		BE3A42FC3F3738B77431586978330A3E /* AirgapConfigModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C44D7E98D4B1910A85C9C97B2103DB4F /* AirgapConfigModel.swift */; };
+		BE3A42FC3F3738B77431586978330A3E /* AirgapConfigModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD8FDC8667D90298045D64E4AA8627AF /* AirgapConfigModel.swift */; };
 		BF3AF1D2B46E09E2B3DCC824E6C1F5AF /* Equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF3F57121E7B56C35DC10046855EBB9F /* Equal.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		BF69AA6FF03B0D3789E27548B8398D35 /* Quick-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4D18F75EB97E4646F3506F6DF40691 /* Quick-dummy.m */; };
 		BFCE460CC33E8872B7156D4166340178 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 700C6F1A95984787AE64FF674D0F6E2F /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C6732407A9778397E44F1AD8F9934F46 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFBB7413B313A1D18C0A6243BA27F4A1 /* Foundation.framework */; };
-		C8A43BCF0A81BDE7E7541A52D60755D5 /* homepage.png in Resources */ = {isa = PBXBuildFile; fileRef = B55919D79E72208D86EF7620DC0D98C5 /* homepage.png */; };
+		C8A43BCF0A81BDE7E7541A52D60755D5 /* homepage.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BFDFDA62DF974AE00DE152785DC3916 /* homepage.png */; };
 		CAFA5E486BCE117A7D8C0FBF9DA6666B /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 3581252DEC0D337A3D139C6BC5C2410F /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		CB7558CCDD935C9E82BBF454022ED1D3 /* Expectation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7734E7C14C70F526B0D66334CBD051A3 /* Expectation.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		CE3FA6AE0944D4AE737F0E57CFF4A615 /* HaveCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA2F0751D0D1B104B86DEF007A87603C /* HaveCount.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
@@ -164,23 +164,23 @@
 		D3359274DC0D6FA2E4CF563033630EB4 /* Nimble-Snapshots-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 92E429956663AB43D3A11F81C5A75924 /* Nimble-Snapshots-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D402334E8AC07D4985402D4E387F387A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFBB7413B313A1D18C0A6243BA27F4A1 /* Foundation.framework */; };
 		D5A4481326F378BB1729769A669E062C /* SuiteHooks.swift in Sources */ = {isa = PBXBuildFile; fileRef = F354FCFAE5DD36F20DBA6AD58155AB94 /* SuiteHooks.swift */; };
-		D77DC96D572620B631FF8DFE7084D324 /* DNS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AEA10B8E32B76D5EE06450C81DF96B3 /* DNS.swift */; };
+		D77DC96D572620B631FF8DFE7084D324 /* DNS.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19F82D9D1BE0C2C73091FBCD53D6BDE /* DNS.swift */; };
 		D88575ED37BC462E8130CDBEFE9EA308 /* XCTestObservationCenter+Register.m in Sources */ = {isa = PBXBuildFile; fileRef = 98E226572774F52288579AEA23F6E961 /* XCTestObservationCenter+Register.m */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		DB7A106243AC974FC7EBEB00B506C786 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 0258238D5D39566C3F48F01C8D7CDCA0 /* FBSnapshotTestCasePlatform.m */; };
-		DBD267DDEA500FBA030561E428485002 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D60FCF3F4EB053A52ADCC762A2328A4 /* back.png */; };
+		DBD267DDEA500FBA030561E428485002 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F13119FC0BB790A8EFE92F950F57C52 /* back.png */; };
 		DC32331BE565888E694E1321BB1D80F5 /* NMBExceptionCapture.m in Sources */ = {isa = PBXBuildFile; fileRef = 195AE968D08B44906A53D008B2B75129 /* NMBExceptionCapture.m */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		DCEE854E62441E78FED15CC994497F61 /* AllPass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C6461C27E6ECEF20F3C6DE9CA35EC4 /* AllPass.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
-		DDDCE69209F29B82283A5DF7F6E96BF1 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = D81B813CA3337EBA4F44051124A30852 /* Response.swift */; };
+		DDDCE69209F29B82283A5DF7F6E96BF1 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FA9A7A1CBC81F0895400B69989F2DE4 /* Response.swift */; };
 		DF37651C7ACD1AE0253B46ECBC78994B /* AirGap.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E12FBC1FB21FBEA74F977FBC68F72969 /* AirGap.bundle */; };
 		E5CCEF0B83F8272D10671C01AAE4FFA0 /* NimbleXCTestHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015661D342001DEF8D01E6078ED33A95 /* NimbleXCTestHandler.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		E641BDDDD29A1BC0C3D861DDC9EA518B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFBB7413B313A1D18C0A6243BA27F4A1 /* Foundation.framework */; };
 		EBA52C16F42E42A1824D87C284F4A60C /* PostNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = B37AA8CABE7A0D82D28EE7C9991FCB89 /* PostNotification.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		ECDCA34D620E87501E4413C5CCB762B7 /* QCKDSL.h in Headers */ = {isa = PBXBuildFile; fileRef = DC91FD40EA1488165F9D6C44A0DBC587 /* QCKDSL.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDCF22F078BA24669AE361C69FCCDA32 /* NSURL+QueryDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 519B149349522EC5AF7D9C93F281271F /* NSURL+QueryDictionary.m */; };
-		EDE4B394007B9A071FA1B001DD67745E /* homepage.png in Resources */ = {isa = PBXBuildFile; fileRef = B55919D79E72208D86EF7620DC0D98C5 /* homepage.png */; };
+		EDE4B394007B9A071FA1B001DD67745E /* homepage.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BFDFDA62DF974AE00DE152785DC3916 /* homepage.png */; };
 		EE93A677B561717E56A85651F6F19FEE /* QuickConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 476BABCCD31FBFC06CAC2961C15E7571 /* QuickConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F143479766663AC5F69BFA06621E0C4D /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0EC04D70F5D40EA3A0BB20EDA53E102F /* Nimble.framework */; };
-		F2B3E27836BAA9710E749AA76BE5F5C0 /* Server.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE5674D270D8DC3F1A96D09F879DA67 /* Server.swift */; };
+		F2B3E27836BAA9710E749AA76BE5F5C0 /* Server.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EAE11913423D30223D8A67190C6E804 /* Server.swift */; };
 		F4A1B7A059AAA6727EB70E58E09332A4 /* CwlCatchException.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED84195BFEF04245BDC1F0FF03075D15 /* CwlCatchException.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		F60D221B548716DF35193FC2CF244676 /* BeAKindOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D72B2B145E2A058E1914CC225D66F4 /* BeAKindOf.swift */; settings = {COMPILER_FLAGS = "-DPRODUCT_NAME=Nimble/Nimble"; }; };
 		F693D0A9E0D05F815A85DC258E75AF8D /* CurrentTestCaseTracker.h in Headers */ = {isa = PBXBuildFile; fileRef = BC00401FC898155280D074D8D6A7BA4F /* CurrentTestCaseTracker.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -327,6 +327,7 @@
 		015661D342001DEF8D01E6078ED33A95 /* NimbleXCTestHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NimbleXCTestHandler.swift; path = Sources/Nimble/Adapters/NimbleXCTestHandler.swift; sourceTree = "<group>"; };
 		0166E160D22CC06D2B45F10AE07D35DE /* NMBStringify.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NMBStringify.m; path = Sources/NimbleObjectiveC/NMBStringify.m; sourceTree = "<group>"; };
 		0258238D5D39566C3F48F01C8D7CDCA0 /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
+		0412AAAFEAD06F0B8C2B40EA1DF39A9F /* ResourceBundle-AirGap-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-AirGap-Info.plist"; sourceTree = "<group>"; };
 		0668A445877BEEE3AF74D769CA5EF0C5 /* Pods-carousel-light_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-carousel-light_Example-umbrella.h"; sourceTree = "<group>"; };
 		06922E7A4B3300F11F554168836A91AD /* Pods-carousel-light_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-carousel-light_Tests.modulemap"; sourceTree = "<group>"; };
 		07688D7EA01460282D1B43059750A060 /* Yaml-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Yaml-umbrella.h"; sourceTree = "<group>"; };
@@ -334,94 +335,100 @@
 		09C755635F1C3B8206BED3041CB0BE4E /* Pods-carousel-light_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-carousel-light_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		0EC04D70F5D40EA3A0BB20EDA53E102F /* Nimble.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Nimble.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F73D2CF1D1CAC132FDC61133F006BB9 /* Yaml-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Yaml-dummy.m"; sourceTree = "<group>"; };
+		0FF9820C8A08ABF8735E5C31C2B347B0 /* carousel-light.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "carousel-light.modulemap"; sourceTree = "<group>"; };
 		10C173E9BA4710A754B22577F81DF99C /* Nimble.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Nimble.framework; path = Nimble.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		130B678EFAC24109BDEA3567AF30A2E6 /* Yaml-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Yaml-prefix.pch"; sourceTree = "<group>"; };
 		1453181B7674E6DC04744F4284688A0B /* Pods-carousel-light_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-carousel-light_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		1672E3DD9F52E574C1B7CED459ED6FAE /* World+DSL.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "World+DSL.h"; path = "Sources/QuickObjectiveC/DSL/World+DSL.h"; sourceTree = "<group>"; };
 		17B236F194A25D3586EA97DAAC6B2F44 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
-		17CDBAFE8A47A177DBA4AC45926C4AAF /* CarouselLightRouteHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CarouselLightRouteHandler.swift; path = "carousel-light/Classes/CarouselLightRouteHandler.swift"; sourceTree = "<group>"; };
 		184B707189F0BFDF91523FD3E92B86B9 /* URL+FileName.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URL+FileName.swift"; path = "Sources/Quick/URL+FileName.swift"; sourceTree = "<group>"; };
 		18F07C16AC6B5D920FD3E24804D810A6 /* ErrorUtility.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ErrorUtility.swift; path = Sources/Quick/ErrorUtility.swift; sourceTree = "<group>"; };
 		195AE968D08B44906A53D008B2B75129 /* NMBExceptionCapture.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NMBExceptionCapture.m; path = Sources/NimbleObjectiveC/NMBExceptionCapture.m; sourceTree = "<group>"; };
-		1AEA10B8E32B76D5EE06450C81DF96B3 /* DNS.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DNS.swift; sourceTree = "<group>"; };
 		1B5F29C895684046E78EF636909430B6 /* Quick.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Quick.modulemap; sourceTree = "<group>"; };
-		1B61A4C2F8D75714F4BF1AED05800DB2 /* AirGap-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AirGap-umbrella.h"; sourceTree = "<group>"; };
 		1BFB2EF1FC428C1AB78C5BD4FCE153BC /* BeEmpty.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeEmpty.swift; path = Sources/Nimble/Matchers/BeEmpty.swift; sourceTree = "<group>"; };
 		1E4946F62AD26DE95CC4798F453B31A9 /* Nimble-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Nimble-dummy.m"; sourceTree = "<group>"; };
+		1F8C8AC4FFE0A65F966D7B4491688286 /* AirGap.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = AirGap.modulemap; sourceTree = "<group>"; };
 		1FA3CC7A18C07364261E66333C885A1A /* Async.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Async.swift; path = Sources/Nimble/Utils/Async.swift; sourceTree = "<group>"; };
 		1FE432569DF903BFBDA07D4E72E7FE3D /* AssertionDispatcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssertionDispatcher.swift; path = Sources/Nimble/Adapters/AssertionDispatcher.swift; sourceTree = "<group>"; };
+		20EF66DF25DEFE6B7C5B49339E88D738 /* Browser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Browser.swift; sourceTree = "<group>"; };
 		240AF70976761059E4E1B68BC81D76A9 /* NSBundle+CurrentTestBundle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSBundle+CurrentTestBundle.swift"; path = "Sources/Quick/NSBundle+CurrentTestBundle.swift"; sourceTree = "<group>"; };
 		25277A5916CDC86459E8AC86CDBFAE36 /* Yaml.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Yaml.modulemap; sourceTree = "<group>"; };
 		258B3980504D41F24A7EFFB534E1BDA2 /* CwlCatchBadInstruction.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CwlCatchBadInstruction.m; path = Sources/Lib/CwlPreconditionTesting/CwlPreconditionTesting/CwlCatchBadInstruction.m; sourceTree = "<group>"; };
 		26F025747979A3575B6B5F84167BD0D5 /* PrettySyntax.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PrettySyntax.swift; sourceTree = "<group>"; };
 		28C5C5DBC5BD0C083AA919FBCCDAE6BA /* HooksPhase.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HooksPhase.swift; path = Sources/Quick/Hooks/HooksPhase.swift; sourceTree = "<group>"; };
 		2AD1E2B5902E0EB0A7A9CDB14E51F67C /* Pods-carousel-light_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-carousel-light_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		2BFDFDA62DF974AE00DE152785DC3916 /* homepage.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = homepage.png; sourceTree = "<group>"; };
 		2C70C21ABB2D18912D30A443B8DC8B21 /* Pods-carousel-light_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-carousel-light_Example-dummy.m"; sourceTree = "<group>"; };
-		2D60FCF3F4EB053A52ADCC762A2328A4 /* back.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = back.png; path = AirGap/Assets/back.png; sourceTree = "<group>"; };
+		2D56DF373C3A6D3D70C255E5E30C88EF /* AirGap.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AirGap.xcconfig; sourceTree = "<group>"; };
 		2DFB002DCFC803D0A94A464EDCE39D09 /* NSURL+QueryDictionary.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "NSURL+QueryDictionary.modulemap"; sourceTree = "<group>"; };
+		2F13119FC0BB790A8EFE92F950F57C52 /* back.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = back.png; path = AirGap/Assets/back.png; sourceTree = "<group>"; };
 		2F4160D2807E3A033ADC59CD23E66E33 /* Pods-carousel-light_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-carousel-light_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		31A0B1EAC42456078818E9A52765F8AC /* CarouselLightViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CarouselLightViewController.swift; path = "carousel-light/Classes/CarouselLightViewController.swift"; sourceTree = "<group>"; };
 		32C6461C27E6ECEF20F3C6DE9CA35EC4 /* AllPass.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AllPass.swift; path = Sources/Nimble/Matchers/AllPass.swift; sourceTree = "<group>"; };
+		34BD9AF0DA68C1B92C8BD2641F5ED11F /* carousel-light-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "carousel-light-umbrella.h"; sourceTree = "<group>"; };
 		34CECB8BCBC1FE027D0E36DDA0B2B8CD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34DC12BC270BE6139BCD0F0073F86998 /* NSURL_QueryDictionary.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NSURL_QueryDictionary.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3526A8DB4A6B52BD1CE8E076674A8920 /* Nimble-Snapshots-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Nimble-Snapshots-dummy.m"; sourceTree = "<group>"; };
 		3581252DEC0D337A3D139C6BC5C2410F /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		35CE7DA60748530028B670415F149C11 /* Nimble-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Nimble-umbrella.h"; sourceTree = "<group>"; };
 		37459D5A393B6FA2AEBF469BB0CA54E2 /* BeGreaterThan.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeGreaterThan.swift; path = Sources/Nimble/Matchers/BeGreaterThan.swift; sourceTree = "<group>"; };
-		379DC2EF7F69222C6D0414582BA61E33 /* YURL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = YURL.swift; sourceTree = "<group>"; };
 		3CFAEA86A54C00F8EAE3FD710D4975FC /* Pods-carousel-light_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-carousel-light_Example-resources.sh"; sourceTree = "<group>"; };
 		40347A5BD949ECDF118D510EE7F0CE23 /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		41103A684C649418ECEB9BD07225D5B6 /* Yaml.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Yaml.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4266D0DAD50CD4505C6F9090E41BA1BD /* RaisesException.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RaisesException.swift; path = Sources/Nimble/Matchers/RaisesException.swift; sourceTree = "<group>"; };
-		43C654C401DFA4DAA064DBF16FDFC246 /* Request.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
 		44972DF18312614348A383439532A67A /* mach_excServer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = mach_excServer.h; path = Sources/Lib/CwlPreconditionTesting/CwlPreconditionTesting/mach_excServer.h; sourceTree = "<group>"; };
 		44A1994C31F2AA6A53464FDEBDC1DBA8 /* Nimble-Snapshots.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Nimble-Snapshots.modulemap"; sourceTree = "<group>"; };
 		455F70554FBE8277E656048813D3052F /* Match.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Match.swift; path = Sources/Nimble/Matchers/Match.swift; sourceTree = "<group>"; };
 		46B2C033B961EEE99AC03CE1835EBBB8 /* CwlCatchException.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CwlCatchException.m; path = Sources/Lib/CwlPreconditionTesting/CwlCatchException/CwlCatchException/CwlCatchException.m; sourceTree = "<group>"; };
 		476BABCCD31FBFC06CAC2961C15E7571 /* QuickConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QuickConfiguration.h; path = Sources/QuickObjectiveC/Configuration/QuickConfiguration.h; sourceTree = "<group>"; };
+		479986E1981139C0B5F91832DD8142DC /* Toolbar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Toolbar.swift; sourceTree = "<group>"; };
 		4843BA7C5ACE104E5AD23772EEBFDAFE /* AirGap.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AirGap.framework; path = AirGap.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4859335E93A5CDB1D078128740B82C55 /* Fileloader.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Fileloader.swift; sourceTree = "<group>"; };
-		48607B5C7004760BFF97314A8A43BDBA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4939F9BA144F544EACDE4275EAD20670 /* SatisfyAnyOf.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SatisfyAnyOf.swift; path = Sources/Nimble/Matchers/SatisfyAnyOf.swift; sourceTree = "<group>"; };
 		4B3532F67E36C3CC43F3B162B19B61F0 /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		4E0385DEC934BA3EAE0E61B1AB3E7963 /* NSURL_QueryDictionary.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = NSURL_QueryDictionary.framework; path = "NSURL+QueryDictionary.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E8D866357CE63D4EB6BC6EDE0982A2A /* carousel-light.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "carousel-light.xcconfig"; sourceTree = "<group>"; };
 		4E9656D84D24708E25377DE539087278 /* Pods-carousel-light_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-carousel-light_Tests-resources.sh"; sourceTree = "<group>"; };
-		4EF9E1985921DE5D6BD70FC676970AE5 /* carousel-light-domain-config.yaml */ = {isa = PBXFileReference; includeInIndex = 1; name = "carousel-light-domain-config.yaml"; path = "carousel-light/Classes/carousel-light-domain-config.yaml"; sourceTree = "<group>"; };
+		4FBE107B192740DE076DB70DF679E1BD /* carousel-light-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "carousel-light-prefix.pch"; sourceTree = "<group>"; };
 		5100D72087FB7047A5E7D29CB4A3255F /* Pods-carousel-light_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-carousel-light_Tests-umbrella.h"; sourceTree = "<group>"; };
 		519B149349522EC5AF7D9C93F281271F /* NSURL+QueryDictionary.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSURL+QueryDictionary.m"; path = "NSURL+QueryDictionary/NSURL+QueryDictionary.m"; sourceTree = "<group>"; };
 		5248F8F71C7E157BA32053726B552E03 /* NSURL+QueryDictionary-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSURL+QueryDictionary-umbrella.h"; sourceTree = "<group>"; };
+		54223315327FB755419A685047725977 /* CarouselLightRouteHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CarouselLightRouteHandler.swift; path = "carousel-light/Classes/CarouselLightRouteHandler.swift"; sourceTree = "<group>"; };
+		561BC50E154C18F663AC03E581659CD5 /* RouteHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RouteHandler.swift; sourceTree = "<group>"; };
 		5700907C778831AE4A831DB8224A4B72 /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
+		5851D65FB50DC6DDC26BB9980D16CF2A /* ResourceBundle-carousel-light-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-carousel-light-Info.plist"; sourceTree = "<group>"; };
 		590D9C8385F27CABB206B5B2F713577D /* mach_excServer.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mach_excServer.c; path = Sources/Lib/CwlPreconditionTesting/CwlPreconditionTesting/mach_excServer.c; sourceTree = "<group>"; };
+		597B5D58DF7D478D03DC0DA5C9A33F54 /* carousel-light-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "carousel-light-dummy.m"; sourceTree = "<group>"; };
 		5A72D0C6530C4EFB796AE36AD9706C13 /* BeGreaterThanOrEqualTo.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeGreaterThanOrEqualTo.swift; path = Sources/Nimble/Matchers/BeGreaterThanOrEqualTo.swift; sourceTree = "<group>"; };
+		5C02DDC70FFFA8A4CD34625376B072AE /* DomainConfigModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DomainConfigModel.swift; sourceTree = "<group>"; };
 		5C7692BD1E1738AD09EE14240713214D /* MatcherFunc.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MatcherFunc.swift; path = Sources/Nimble/Matchers/MatcherFunc.swift; sourceTree = "<group>"; };
 		5C9F945D17467D3AB7C1620CB71E16BA /* YAMLOperators.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = YAMLOperators.swift; path = Yaml/YAMLOperators.swift; sourceTree = "<group>"; };
 		5DA2916B3FF9A860A5F0755A12B5DDF0 /* Yaml.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Yaml.xcconfig; sourceTree = "<group>"; };
 		5E40509ED7DDDE0AA21BF470A28D8C7A /* BeginWith.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeginWith.swift; path = Sources/Nimble/Matchers/BeginWith.swift; sourceTree = "<group>"; };
+		5EAE11913423D30223D8A67190C6E804 /* Server.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Server.swift; sourceTree = "<group>"; };
 		5EBDB602669FDAB7E374CE5AA0DBE7B0 /* QuickTestSuite.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = QuickTestSuite.swift; path = Sources/Quick/QuickTestSuite.swift; sourceTree = "<group>"; };
 		60578833DC787C549D43938C32F394DC /* BeCloseTo.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeCloseTo.swift; path = Sources/Nimble/Matchers/BeCloseTo.swift; sourceTree = "<group>"; };
 		6293725ED0C0805C0352D6BB4F7858E0 /* Expression.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Expression.swift; path = Sources/Nimble/Expression.swift; sourceTree = "<group>"; };
 		631FC95C6E483513F75E30C6D038C222 /* Yaml.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Yaml.framework; path = Yaml.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6597E61542757644D6904072BE54D59C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65DE10BE25FFA635E4C85D8CC6F69B80 /* CwlCatchBadInstruction.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CwlCatchBadInstruction.swift; path = Sources/Lib/CwlPreconditionTesting/CwlPreconditionTesting/CwlCatchBadInstruction.swift; sourceTree = "<group>"; };
 		66173CD0FF87A70D8F44C70D34C1F4AC /* Errors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Errors.swift; path = Sources/Nimble/Utils/Errors.swift; sourceTree = "<group>"; };
 		674FE6B9A879CCB94DFF99125F9BBE0F /* BeAnInstanceOf.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeAnInstanceOf.swift; path = Sources/Nimble/Matchers/BeAnInstanceOf.swift; sourceTree = "<group>"; };
 		67E0DC997C21394AD5AB23BF78563332 /* Pods_carousel_light_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_carousel_light_Example.framework; path = "Pods-carousel-light_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B8E913E73E6B6B54D069DA4F1AD9442 /* CwlBadInstructionException.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CwlBadInstructionException.swift; path = Sources/Lib/CwlPreconditionTesting/CwlPreconditionTesting/CwlBadInstructionException.swift; sourceTree = "<group>"; };
-		6C2B3B4CCE8603C9843E29A0F5A91F1C /* Viewport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Viewport.swift; sourceTree = "<group>"; };
 		6D557C43300FCBF377526AA2CA4E5014 /* Quick.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Quick.framework; path = Quick.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E454EC72DF7E41D535FD39127B89406 /* DSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DSL.swift; path = Sources/Nimble/DSL.swift; sourceTree = "<group>"; };
 		700C6F1A95984787AE64FF674D0F6E2F /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		70F3BAD14D1DE7ACF344F907B178F30D /* Callsite.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Callsite.swift; path = Sources/Quick/Callsite.swift; sourceTree = "<group>"; };
 		711C76BBBB69A918291199140DE2FB18 /* NSURL+QueryDictionary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSURL+QueryDictionary.h"; path = "NSURL+QueryDictionary/NSURL+QueryDictionary.h"; sourceTree = "<group>"; };
-		7446CA415165BEEB0D8E1E0E9B76E14C /* AirGap.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = AirGap.modulemap; sourceTree = "<group>"; };
 		7723AD6335382B3C55C8B0C10A683D36 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		7734E7C14C70F526B0D66334CBD051A3 /* Expectation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Expectation.swift; path = Sources/Nimble/Expectation.swift; sourceTree = "<group>"; };
 		77E6E72D32D66612C37CEF6CF15CC4BF /* NSString+QCKSelectorName.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+QCKSelectorName.h"; path = "Sources/QuickObjectiveC/NSString+QCKSelectorName.h"; sourceTree = "<group>"; };
 		783D888610C857C874FC85588E5B40EC /* Nimble.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Nimble.xcconfig; sourceTree = "<group>"; };
 		78D5CCC9F20EB5649339AA5CE8CC0868 /* Yaml.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Yaml.swift; path = Yaml/Yaml.swift; sourceTree = "<group>"; };
 		796EA4A226DDEB4299911E05F5E79592 /* BeLessThan.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeLessThan.swift; path = Sources/Nimble/Matchers/BeLessThan.swift; sourceTree = "<group>"; };
+		79CA85BB2ADC49B3CC043382364DD22F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79FA4F1753684C95524A3A2BA301B67A /* CwlCatchBadInstruction.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CwlCatchBadInstruction.h; path = Sources/Lib/CwlPreconditionTesting/CwlPreconditionTesting/CwlCatchBadInstruction.h; sourceTree = "<group>"; };
-		7A4F2767D5B4564555A6F22775C5763B /* Toolbar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Toolbar.swift; sourceTree = "<group>"; };
 		7D8E066CAF93FE66FC7AD2EDD1D14223 /* Closures.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Closures.swift; path = Sources/Quick/Hooks/Closures.swift; sourceTree = "<group>"; };
+		7FA9A7A1CBC81F0895400B69989F2DE4 /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		8118D8E33AF68F715533C86766538BA0 /* BeLogical.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeLogical.swift; path = Sources/Nimble/Matchers/BeLogical.swift; sourceTree = "<group>"; };
 		8119AB353E5919FF9F0BB88FDD9C81DF /* BeNil.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeNil.swift; path = Sources/Nimble/Matchers/BeNil.swift; sourceTree = "<group>"; };
 		81869F327ACC92947FCEE482464A5220 /* BeLessThanOrEqual.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeLessThanOrEqual.swift; path = Sources/Nimble/Matchers/BeLessThanOrEqual.swift; sourceTree = "<group>"; };
@@ -436,14 +443,15 @@
 		87EED25FB1BCDCC94D081E4B3AAC1876 /* World.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = World.swift; path = Sources/Quick/World.swift; sourceTree = "<group>"; };
 		8A33FBE4FCCD16D603BF5F37FE58916A /* YAMLResult.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = YAMLResult.swift; path = Yaml/YAMLResult.swift; sourceTree = "<group>"; };
 		8AE73E7DD1DF9B4252BD523BC4529C69 /* NSURL+QueryDictionary-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSURL+QueryDictionary-dummy.m"; sourceTree = "<group>"; };
+		8B0A9E438B2DD9C8C9B4BD5BA7FFBB8D /* AirGap-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AirGap-umbrella.h"; sourceTree = "<group>"; };
 		8B2AF7F7788C29025835944132D6EDD3 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
 		8B3B88DA51ED8A23D2FD0FA69D2E6B1B /* Nimble-Snapshots.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Nimble-Snapshots.xcconfig"; sourceTree = "<group>"; };
 		8B4F65DBCC985B81878C9267A8DCF8B4 /* Nimble_Snapshots.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Nimble_Snapshots.framework; path = "Nimble-Snapshots.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C8750E13A4013351F3EE75284C22D53 /* AirGap-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AirGap-dummy.m"; sourceTree = "<group>"; };
 		8D7233A64289861BD7403271BAD42600 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D764E026C3AB803503D9805479F61DC /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		8FFA7117CC8D4783D9EF983E9B4B4D25 /* BeVoid.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BeVoid.swift; path = Sources/Nimble/Matchers/BeVoid.swift; sourceTree = "<group>"; };
 		900DB54FFB41A7ECDC23F51C376929C5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		90DDC7571173C1B667BC37469DC12D61 /* AirGap.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AirGap.xcconfig; sourceTree = "<group>"; };
 		919AFD2564F42D9B56E0A415384F46BD /* Nimble-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Nimble-prefix.pch"; sourceTree = "<group>"; };
 		92E429956663AB43D3A11F81C5A75924 /* Nimble-Snapshots-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Nimble-Snapshots-umbrella.h"; sourceTree = "<group>"; };
 		92E5B3800C1C44FEFAA27BAF2ECAEDE3 /* carousel-light.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "carousel-light.bundle"; path = "carousel-light.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -451,9 +459,11 @@
 		936994731CD0A9F0139A914D60534204 /* AssertionRecorder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AssertionRecorder.swift; path = Sources/Nimble/Adapters/AssertionRecorder.swift; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9593FD1BFD7FAE6B60A05FAF8D7749C0 /* Pods_carousel_light_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_carousel_light_Tests.framework; path = "Pods-carousel-light_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		989206853125F0CDB02E407A7D68FD41 /* YURL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = YURL.swift; sourceTree = "<group>"; };
 		98E226572774F52288579AEA23F6E961 /* XCTestObservationCenter+Register.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "XCTestObservationCenter+Register.m"; path = "Sources/NimbleObjectiveC/XCTestObservationCenter+Register.m"; sourceTree = "<group>"; };
 		991FDF16DD6E3D259C859F561DF57C1F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		9FE5674D270D8DC3F1A96D09F879DA67 /* Server.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Server.swift; sourceTree = "<group>"; };
+		994B321B398B8775FEC88859D1814522 /* Fileloader.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Fileloader.swift; sourceTree = "<group>"; };
+		99B3900B2B2844E5003C04FF06028192 /* Viewport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Viewport.swift; sourceTree = "<group>"; };
 		A02C6C980048E6EDEFABADFD583035E0 /* Pods-carousel-light_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-carousel-light_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A0984A96C639DAB4EE4C0D801601920C /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
 		A09CADB11FBEF5C07DD407E5B643C2CC /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
@@ -461,43 +471,37 @@
 		A1DF40185416A8990B0FCA830FA7A627 /* Nimble-Snapshots-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Nimble-Snapshots-prefix.pch"; sourceTree = "<group>"; };
 		A2599F758F84F7FCE5A3D2E14540ECE5 /* Pods-carousel-light_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-carousel-light_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A3DA3ADB0DBD7E2C04D2A48CEF482751 /* Pods-carousel-light_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-carousel-light_Tests-dummy.m"; sourceTree = "<group>"; };
-		A52BB924C1DBBEECF75D0DBA4849DB8A /* carousel-light-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "carousel-light-dummy.m"; sourceTree = "<group>"; };
 		A8B01E458DAA08205D513252D6E5395F /* SourceLocation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SourceLocation.swift; path = Sources/Nimble/Utils/SourceLocation.swift; sourceTree = "<group>"; };
 		A8BCF0F1B26C73DA4A944EA1B1C17040 /* DSL+Wait.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DSL+Wait.swift"; path = "Sources/Nimble/DSL+Wait.swift"; sourceTree = "<group>"; };
-		ABB24CE9DCABA8189B75AB355B1A2ACE /* AirGap-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AirGap-dummy.m"; sourceTree = "<group>"; };
 		AC6EF4525C068012D55CEED2693D1D7D /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
-		AD02D605F78B4073A7F6BFC514323A20 /* ResourceBundle-AirGap-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-AirGap-Info.plist"; sourceTree = "<group>"; };
 		AFD7A45683837CA3FEA4D7D1523DD9FD /* NimbleEnvironment.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NimbleEnvironment.swift; path = Sources/Nimble/Adapters/NimbleEnvironment.swift; sourceTree = "<group>"; };
 		B16082D256FCB14F85351C34539B3194 /* Nimble.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Nimble.h; path = Sources/Nimble/Nimble.h; sourceTree = "<group>"; };
 		B22466AE24E55C87E281C9FB16164918 /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
+		B2B53C0649CFC3E9D26780662F2D4790 /* carousel-light-domain-config.yaml */ = {isa = PBXFileReference; includeInIndex = 1; name = "carousel-light-domain-config.yaml"; path = "carousel-light/Classes/carousel-light-domain-config.yaml"; sourceTree = "<group>"; };
 		B37AA8CABE7A0D82D28EE7C9991FCB89 /* PostNotification.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PostNotification.swift; path = Sources/Nimble/Matchers/PostNotification.swift; sourceTree = "<group>"; };
 		B4498BAB73F8F77C1EC5A5D4494F45AB /* ExampleHooks.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExampleHooks.swift; path = Sources/Quick/Hooks/ExampleHooks.swift; sourceTree = "<group>"; };
-		B55919D79E72208D86EF7620DC0D98C5 /* homepage.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = homepage.png; sourceTree = "<group>"; };
+		B64850C5C27D72C901BA26EFEF896A4A /* Request.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
 		B7036742D3E050703175F728F4D43F02 /* AdapterProtocols.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AdapterProtocols.swift; path = Sources/Nimble/Adapters/AdapterProtocols.swift; sourceTree = "<group>"; };
 		B836C1459A149924E500096B527FDCD1 /* ThrowAssertion.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ThrowAssertion.swift; path = Sources/Nimble/Matchers/ThrowAssertion.swift; sourceTree = "<group>"; };
+		B86A476C9AA5C6A92E87CE39681E3151 /* AirGap-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AirGap-prefix.pch"; sourceTree = "<group>"; };
 		B90695CF70A1B44A8AA1703B648E7EBA /* QuickSpec.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QuickSpec.m; path = Sources/QuickObjectiveC/QuickSpec.m; sourceTree = "<group>"; };
 		B9A7ADD7D8096A2237C120A6C55A22E8 /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
-		BA5639EB63F8A0B90F8E11B7F533D017 /* carousel-light.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "carousel-light.modulemap"; sourceTree = "<group>"; };
 		BC00401FC898155280D074D8D6A7BA4F /* CurrentTestCaseTracker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CurrentTestCaseTracker.h; path = Sources/NimbleObjectiveC/CurrentTestCaseTracker.h; sourceTree = "<group>"; };
 		C0A72BE8F3C85DE416B68ED031EC580C /* Quick.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Quick.h; path = Sources/QuickObjectiveC/Quick.h; sourceTree = "<group>"; };
-		C1101D9530BBEDB17BD93A8575F74C0C /* Browser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Browser.swift; sourceTree = "<group>"; };
 		C11CB3CE23C7FFC4F439FD7C4175954C /* Quick-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Quick-prefix.pch"; sourceTree = "<group>"; };
+		C19F82D9D1BE0C2C73091FBCD53D6BDE /* DNS.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DNS.swift; sourceTree = "<group>"; };
 		C20C14E8991D2AC2018343C437772B32 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
-		C44D7E98D4B1910A85C9C97B2103DB4F /* AirgapConfigModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AirgapConfigModel.swift; sourceTree = "<group>"; };
 		C508BB52911CCFB32D1E6D10499ECE58 /* carousel_light.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = carousel_light.framework; path = "carousel-light.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C553ECC26800B96B93EF5F1EC460D3EC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C571A0FFFDC3A55054317967727FDD74 /* QuickSpec.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QuickSpec.h; path = Sources/QuickObjectiveC/QuickSpec.h; sourceTree = "<group>"; };
 		C5EB0FF8E48A43C3851CC585660A6780 /* AsyncMatcherWrapper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AsyncMatcherWrapper.swift; path = Sources/Nimble/Matchers/AsyncMatcherWrapper.swift; sourceTree = "<group>"; };
 		C74C2E231C370E2D931965D2A69A4407 /* MatcherProtocols.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MatcherProtocols.swift; path = Sources/Nimble/Matchers/MatcherProtocols.swift; sourceTree = "<group>"; };
 		C775F0FA3E650725BC1EC26A83AD73FD /* NSURL+QueryDictionary.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "NSURL+QueryDictionary.xcconfig"; sourceTree = "<group>"; };
-		C97E6B3D31B2D074414C9E118ABF992B /* carousel-light-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "carousel-light-prefix.pch"; sourceTree = "<group>"; };
 		CA2F0751D0D1B104B86DEF007A87603C /* HaveCount.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HaveCount.swift; path = Sources/Nimble/Matchers/HaveCount.swift; sourceTree = "<group>"; };
 		CC579C040006AA98CB2C1EC57D1764D3 /* Quick.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Quick.xcconfig; sourceTree = "<group>"; };
 		CD080A41F3A5FC036CBB21E9114E6FFE /* NMBObjCMatcher.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NMBObjCMatcher.swift; path = Sources/Nimble/Adapters/NMBObjCMatcher.swift; sourceTree = "<group>"; };
-		CD3540D2F872B5BB1315648D0672404D /* ResourceBundle-carousel-light-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-carousel-light-Info.plist"; sourceTree = "<group>"; };
 		CFBB7413B313A1D18C0A6243BA27F4A1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D12C3FDB27E43902539DBB652B1BBB5C /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D1C58EDB713C3975BE0EEABB24C96AD1 /* DomainConfigModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DomainConfigModel.swift; sourceTree = "<group>"; };
 		D28A92193A01597EC8883136BB83F9CF /* NMBExpectation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NMBExpectation.swift; path = Sources/Nimble/Adapters/NMBExpectation.swift; sourceTree = "<group>"; };
 		D2D071B661D6134A90D2952904E9339B /* DSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DSL.swift; path = Sources/Quick/DSL/DSL.swift; sourceTree = "<group>"; };
 		D4BEAD31EB6215022C1DDCC41A9F961B /* MatchError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MatchError.swift; path = Sources/Nimble/Matchers/MatchError.swift; sourceTree = "<group>"; };
@@ -506,10 +510,7 @@
 		D64B91ECAE1500CD5A4DB90CF83544AE /* YAMLTokenizer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = YAMLTokenizer.swift; path = Yaml/YAMLTokenizer.swift; sourceTree = "<group>"; };
 		D668854D774CE6E470D8D0CCE346444F /* NimbleSnapshotsConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = NimbleSnapshotsConfiguration.swift; sourceTree = "<group>"; };
 		D7EAF960453E79198983D90B0220093D /* ExampleGroup.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExampleGroup.swift; path = Sources/Quick/ExampleGroup.swift; sourceTree = "<group>"; };
-		D81B813CA3337EBA4F44051124A30852 /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 		D9347238B83D840093B3A851FC1CB0A1 /* HaveValidSnapshot.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = HaveValidSnapshot.swift; sourceTree = "<group>"; };
-		DA82172E5ACF1FCC64390097989F58FC /* RouteHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RouteHandler.swift; sourceTree = "<group>"; };
-		DA96970BAB60B7D5C89A17278EBB3916 /* carousel-light.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "carousel-light.xcconfig"; sourceTree = "<group>"; };
 		DAF66C411E4052A0C2488CF05D58A507 /* Quick.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Quick.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB4D18F75EB97E4646F3506F6DF40691 /* Quick-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Quick-dummy.m"; sourceTree = "<group>"; };
 		DC91FD40EA1488165F9D6C44A0DBC587 /* QCKDSL.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QCKDSL.h; path = Sources/QuickObjectiveC/DSL/QCKDSL.h; sourceTree = "<group>"; };
@@ -525,7 +526,6 @@
 		E45FA3BE5455F15719483CF1A4F16D33 /* QuickSelectedTestSuiteBuilder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = QuickSelectedTestSuiteBuilder.swift; path = Sources/Quick/QuickSelectedTestSuiteBuilder.swift; sourceTree = "<group>"; };
 		E497A63D8504EA479BB925A9CEAED2BF /* NMBExceptionCapture.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NMBExceptionCapture.h; path = Sources/NimbleObjectiveC/NMBExceptionCapture.h; sourceTree = "<group>"; };
 		E4E01F53F585AF0CF3E184B7F801B92A /* NMBStringify.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NMBStringify.h; path = Sources/NimbleObjectiveC/NMBStringify.h; sourceTree = "<group>"; };
-		E538B9DD60A9008230D427E6B149719E /* AirGap-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AirGap-prefix.pch"; sourceTree = "<group>"; };
 		E56CEE4A35209D7AFED74580008DD927 /* NSURL+QueryDictionary-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSURL+QueryDictionary-prefix.pch"; sourceTree = "<group>"; };
 		E5AC45256AD8E4534935F3CBDC3221A5 /* Functional.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Functional.swift; path = Sources/Nimble/Utils/Functional.swift; sourceTree = "<group>"; };
 		E64D48D3F720DE6B736098D0C5F9DF73 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -539,19 +539,19 @@
 		ED576D94AE439212657C4BEFEC11C9DB /* DSL.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DSL.h; path = Sources/NimbleObjectiveC/DSL.h; sourceTree = "<group>"; };
 		ED84195BFEF04245BDC1F0FF03075D15 /* CwlCatchException.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CwlCatchException.swift; path = Sources/Lib/CwlPreconditionTesting/CwlCatchException/CwlCatchException/CwlCatchException.swift; sourceTree = "<group>"; };
 		F03750DE709436B26AC16A67458BC356 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F16285C481F50A5C047E25B04A2E4A3E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2C02558D190DC59526A8AFBAC767222 /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
 		F354FCFAE5DD36F20DBA6AD58155AB94 /* SuiteHooks.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SuiteHooks.swift; path = Sources/Quick/Hooks/SuiteHooks.swift; sourceTree = "<group>"; };
 		F3CCA7368E67CFC04C804D21F97C6675 /* YAMLParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = YAMLParser.swift; path = Yaml/YAMLParser.swift; sourceTree = "<group>"; };
+		F503953B781FB806B92778C98BE8FAE6 /* CarouselLightViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CarouselLightViewController.swift; path = "carousel-light/Classes/CarouselLightViewController.swift"; sourceTree = "<group>"; };
 		F6353C995B5609D7109849E29407B2F6 /* Pods-carousel-light_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-carousel-light_Example-frameworks.sh"; sourceTree = "<group>"; };
 		F6EBBD82B562E1ACBA35E677A79DD7C5 /* FailureMessage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FailureMessage.swift; path = Sources/Nimble/FailureMessage.swift; sourceTree = "<group>"; };
 		F734895F84DB1026492F1EBD477EB808 /* XCTestSuite+QuickTestSuiteBuilder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "XCTestSuite+QuickTestSuiteBuilder.m"; path = "Sources/QuickObjectiveC/XCTestSuite+QuickTestSuiteBuilder.m"; sourceTree = "<group>"; };
 		F7DC2BCF7D4AAA600728FE6249FBC896 /* Contain.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Contain.swift; path = Sources/Nimble/Matchers/Contain.swift; sourceTree = "<group>"; };
-		F8828091A283EF04BFDEA3E3C440FDE2 /* carousel-light-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "carousel-light-umbrella.h"; sourceTree = "<group>"; };
 		F8C2553DA04CF0251388C272A3107EB2 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		FA330EE5A58A34B8D5B95C6E10C5F969 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
 		FCAE9A2D9A89765C72043C1BA0067188 /* QuickConfiguration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QuickConfiguration.m; path = Sources/QuickObjectiveC/Configuration/QuickConfiguration.m; sourceTree = "<group>"; };
 		FD37FD5958325F2559120ED00521B94F /* Pods-carousel-light_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-carousel-light_Example.release.xcconfig"; sourceTree = "<group>"; };
+		FD8FDC8667D90298045D64E4AA8627AF /* AirgapConfigModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AirgapConfigModel.swift; sourceTree = "<group>"; };
 		FDE83D3C23EB3326B4B36127DE773B92 /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		FECFD1B286F3C96C4986A01256DBF18A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -667,45 +667,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		024329DB916431D9B4552D1A315C75D0 /* AirGap */ = {
+		06E4FCCEF860B5EBEEFEFFF91F2B4210 /* RequestResponse */ = {
 			isa = PBXGroup;
 			children = (
-				44C623D7EBA20CF3864E223E26072A61 /* Browser */,
-				1EE38D6204FC54FA4A92E4D89F8E8C3D /* DNS */,
-				F3B1E2F122E46EE3DCF2B568BD15B3F0 /* RequestResponse */,
-				C908B5CED8DCA740F7BA3AD9416C16A4 /* Resources */,
-				AD9D03E7379A8A019C42D45EF4071D6C /* Server */,
-				1C2C7D10031BC572B9EC07E730F37701 /* Support Files */,
+				B64850C5C27D72C901BA26EFEF896A4A /* Request.swift */,
+				7FA9A7A1CBC81F0895400B69989F2DE4 /* Response.swift */,
+				989206853125F0CDB02E407A7D68FD41 /* YURL.swift */,
 			);
-			name = AirGap;
-			path = "../../../air-gap";
+			name = RequestResponse;
+			path = AirGap/Classes/RequestResponse;
 			sourceTree = "<group>";
 		};
-		1C2C7D10031BC572B9EC07E730F37701 /* Support Files */ = {
+		10330F4353C9F271FDAAC3E3E0E9B148 /* Browser */ = {
 			isa = PBXGroup;
 			children = (
-				7446CA415165BEEB0D8E1E0E9B76E14C /* AirGap.modulemap */,
-				90DDC7571173C1B667BC37469DC12D61 /* AirGap.xcconfig */,
-				ABB24CE9DCABA8189B75AB355B1A2ACE /* AirGap-dummy.m */,
-				E538B9DD60A9008230D427E6B149719E /* AirGap-prefix.pch */,
-				1B61A4C2F8D75714F4BF1AED05800DB2 /* AirGap-umbrella.h */,
-				F16285C481F50A5C047E25B04A2E4A3E /* Info.plist */,
-				AD02D605F78B4073A7F6BFC514323A20 /* ResourceBundle-AirGap-Info.plist */,
+				20EF66DF25DEFE6B7C5B49339E88D738 /* Browser.swift */,
+				479986E1981139C0B5F91832DD8142DC /* Toolbar.swift */,
+				99B3900B2B2844E5003C04FF06028192 /* Viewport.swift */,
 			);
-			name = "Support Files";
-			path = "../carousel-light/Example/Pods/Target Support Files/AirGap";
-			sourceTree = "<group>";
-		};
-		1EE38D6204FC54FA4A92E4D89F8E8C3D /* DNS */ = {
-			isa = PBXGroup;
-			children = (
-				C44D7E98D4B1910A85C9C97B2103DB4F /* AirgapConfigModel.swift */,
-				1AEA10B8E32B76D5EE06450C81DF96B3 /* DNS.swift */,
-				D1C58EDB713C3975BE0EEABB24C96AD1 /* DomainConfigModel.swift */,
-				4859335E93A5CDB1D078128740B82C55 /* Fileloader.swift */,
-			);
-			name = DNS;
-			path = AirGap/Classes/DNS;
+			name = Browser;
+			path = AirGap/Classes/Browser;
 			sourceTree = "<group>";
 		};
 		1EF461CDECD4273456CA868451E63743 /* Pods-carousel-light_Example */ = {
@@ -751,15 +732,6 @@
 			path = "../Target Support Files/Quick";
 			sourceTree = "<group>";
 		};
-		2983C02DD16B2F13D6AAEB9D635D77AA /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				024329DB916431D9B4552D1A315C75D0 /* AirGap */,
-				B465A6CA77AC0167BAC0486688D113A4 /* carousel-light */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
 		2E896DEC77FDF0BFAF3576F74116027E /* FBSnapshotTestCase */ = {
 			isa = PBXGroup;
 			children = (
@@ -769,6 +741,21 @@
 			);
 			name = FBSnapshotTestCase;
 			path = FBSnapshotTestCase;
+			sourceTree = "<group>";
+		};
+		3096B79511CD5708634FB5B12B46BCF3 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1F8C8AC4FFE0A65F966D7B4491688286 /* AirGap.modulemap */,
+				2D56DF373C3A6D3D70C255E5E30C88EF /* AirGap.xcconfig */,
+				8C8750E13A4013351F3EE75284C22D53 /* AirGap-dummy.m */,
+				B86A476C9AA5C6A92E87CE39681E3151 /* AirGap-prefix.pch */,
+				8B0A9E438B2DD9C8C9B4BD5BA7FFBB8D /* AirGap-umbrella.h */,
+				79CA85BB2ADC49B3CC043382364DD22F /* Info.plist */,
+				0412AAAFEAD06F0B8C2B40EA1DF39A9F /* ResourceBundle-AirGap-Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Arch/routing/carousel-light/Example/Pods/Target Support Files/AirGap";
 			sourceTree = "<group>";
 		};
 		31C87B4DBCD34147A7794D80942F72F0 /* Frameworks */ = {
@@ -785,16 +772,19 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		44C623D7EBA20CF3864E223E26072A61 /* Browser */ = {
+		3F0517546CB0BAE265E574F1DD8778DB /* AirGap */ = {
 			isa = PBXGroup;
 			children = (
-				C1101D9530BBEDB17BD93A8575F74C0C /* Browser.swift */,
-				7A4F2767D5B4564555A6F22775C5763B /* Toolbar.swift */,
-				6C2B3B4CCE8603C9843E29A0F5A91F1C /* Viewport.swift */,
+				10330F4353C9F271FDAAC3E3E0E9B148 /* Browser */,
+				9B68B9F96AE8323D0380E1D892D008ED /* DNS */,
+				06E4FCCEF860B5EBEEFEFFF91F2B4210 /* RequestResponse */,
+				9AC156B7955EC3457159A8C87B6AB265 /* Resources */,
+				A4D421D3B074080AE1127FDE562B2977 /* Server */,
+				3096B79511CD5708634FB5B12B46BCF3 /* Support Files */,
 			);
-			name = Browser;
-			path = AirGap/Classes/Browser;
-			sourceTree = "<group>";
+			name = AirGap;
+			path = /Users/sghiassy/Dev/Groupon/AirGap;
+			sourceTree = "<absolute>";
 		};
 		4961C1C96B211AFDBD0EAD6030F3D947 /* Core */ = {
 			isa = PBXGroup;
@@ -856,6 +846,15 @@
 			name = Core;
 			sourceTree = "<group>";
 		};
+		4FEB06F8EC78FEC096ACC03F82F811C7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CE0C2883EB1DC7DDFA9752CEE8ED9032 /* Assets */,
+				C288762A7F56C318B88AE55BD98D3FA3 /* Classes */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		50F7F398E3F168FD903EE1E3520E7E67 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -870,23 +869,6 @@
 			path = "../Target Support Files/Yaml";
 			sourceTree = "<group>";
 		};
-		55D8A5CC9B6D4F552E2169968687905F /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Classes;
-			path = "carousel-light/Classes";
-			sourceTree = "<group>";
-		};
-		574B59D1321CEF4498919BDC0A77AA5B /* Assets */ = {
-			isa = PBXGroup;
-			children = (
-				B55919D79E72208D86EF7620DC0D98C5 /* homepage.png */,
-			);
-			name = Assets;
-			path = "carousel-light/Assets";
-			sourceTree = "<group>";
-		};
 		5B20D5DEC83B8A103F9D9393220FF717 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -896,15 +878,6 @@
 				F8C2553DA04CF0251388C272A3107EB2 /* XCTest.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		5DE94E4E77DC6737006A36F43619530F /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				574B59D1321CEF4498919BDC0A77AA5B /* Assets */,
-				55D8A5CC9B6D4F552E2169968687905F /* Classes */,
-			);
-			name = Resources;
 			sourceTree = "<group>";
 		};
 		6FDA19BB1E1A92FAE6A68A076DC4824E /* Nimble */ = {
@@ -1023,7 +996,7 @@
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				2983C02DD16B2F13D6AAEB9D635D77AA /* Development Pods */,
+				F0E02C4F23C65A34FCDD28C1A21BE1F3 /* Development Pods */,
 				31C87B4DBCD34147A7794D80942F72F0 /* Frameworks */,
 				F32B6569ED6E9F844A909C2A330C4B9A /* Pods */,
 				EC8DC8A06C4C6CDA3ED1BC716F5B5938 /* Products */,
@@ -1031,19 +1004,17 @@
 			);
 			sourceTree = "<group>";
 		};
-		81F146298CA525078535257069894F00 /* Support Files */ = {
+		88953AECC52C2D652EC73FF1EE3697D8 /* carousel-light */ = {
 			isa = PBXGroup;
 			children = (
-				BA5639EB63F8A0B90F8E11B7F533D017 /* carousel-light.modulemap */,
-				DA96970BAB60B7D5C89A17278EBB3916 /* carousel-light.xcconfig */,
-				A52BB924C1DBBEECF75D0DBA4849DB8A /* carousel-light-dummy.m */,
-				C97E6B3D31B2D074414C9E118ABF992B /* carousel-light-prefix.pch */,
-				F8828091A283EF04BFDEA3E3C440FDE2 /* carousel-light-umbrella.h */,
-				48607B5C7004760BFF97314A8A43BDBA /* Info.plist */,
-				CD3540D2F872B5BB1315648D0672404D /* ResourceBundle-carousel-light-Info.plist */,
+				B2B53C0649CFC3E9D26780662F2D4790 /* carousel-light-domain-config.yaml */,
+				54223315327FB755419A685047725977 /* CarouselLightRouteHandler.swift */,
+				F503953B781FB806B92778C98BE8FAE6 /* CarouselLightViewController.swift */,
+				4FEB06F8EC78FEC096ACC03F82F811C7 /* Resources */,
+				E246329DC930F95DF6B34B261BE56F46 /* Support Files */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/carousel-light";
+			name = "carousel-light";
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		8EBE8EA6B4A8B47ACBB44F50108A0204 /* Support Files */ = {
@@ -1068,6 +1039,26 @@
 			name = SwiftSupport;
 			sourceTree = "<group>";
 		};
+		9AC156B7955EC3457159A8C87B6AB265 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2F13119FC0BB790A8EFE92F950F57C52 /* back.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		9B68B9F96AE8323D0380E1D892D008ED /* DNS */ = {
+			isa = PBXGroup;
+			children = (
+				FD8FDC8667D90298045D64E4AA8627AF /* AirgapConfigModel.swift */,
+				C19F82D9D1BE0C2C73091FBCD53D6BDE /* DNS.swift */,
+				5C02DDC70FFFA8A4CD34625376B072AE /* DomainConfigModel.swift */,
+				994B321B398B8775FEC88859D1814522 /* Fileloader.swift */,
+			);
+			name = DNS;
+			path = AirGap/Classes/DNS;
+			sourceTree = "<group>";
+		};
 		A4808616A461CB0B79C1EE1AC4E1C261 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -1075,6 +1066,16 @@
 				A7110530867A275A1D16753BED44D3FA /* Pods-carousel-light_Tests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		A4D421D3B074080AE1127FDE562B2977 /* Server */ = {
+			isa = PBXGroup;
+			children = (
+				561BC50E154C18F663AC03E581659CD5 /* RouteHandler.swift */,
+				5EAE11913423D30223D8A67190C6E804 /* Server.swift */,
+			);
+			name = Server;
+			path = AirGap/Classes/Server;
 			sourceTree = "<group>";
 		};
 		A7110530867A275A1D16753BED44D3FA /* Pods-carousel-light_Tests */ = {
@@ -1095,27 +1096,12 @@
 			path = "Target Support Files/Pods-carousel-light_Tests";
 			sourceTree = "<group>";
 		};
-		AD9D03E7379A8A019C42D45EF4071D6C /* Server */ = {
+		C288762A7F56C318B88AE55BD98D3FA3 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				DA82172E5ACF1FCC64390097989F58FC /* RouteHandler.swift */,
-				9FE5674D270D8DC3F1A96D09F879DA67 /* Server.swift */,
 			);
-			name = Server;
-			path = AirGap/Classes/Server;
-			sourceTree = "<group>";
-		};
-		B465A6CA77AC0167BAC0486688D113A4 /* carousel-light */ = {
-			isa = PBXGroup;
-			children = (
-				4EF9E1985921DE5D6BD70FC676970AE5 /* carousel-light-domain-config.yaml */,
-				17CDBAFE8A47A177DBA4AC45926C4AAF /* CarouselLightRouteHandler.swift */,
-				31A0B1EAC42456078818E9A52765F8AC /* CarouselLightViewController.swift */,
-				5DE94E4E77DC6737006A36F43619530F /* Resources */,
-				81F146298CA525078535257069894F00 /* Support Files */,
-			);
-			name = "carousel-light";
-			path = ../..;
+			name = Classes;
+			path = "carousel-light/Classes";
 			sourceTree = "<group>";
 		};
 		C4D3711E42923B5D9C3E74FFEEC19660 /* Support Files */ = {
@@ -1132,12 +1118,13 @@
 			path = "../Target Support Files/FBSnapshotTestCase";
 			sourceTree = "<group>";
 		};
-		C908B5CED8DCA740F7BA3AD9416C16A4 /* Resources */ = {
+		CE0C2883EB1DC7DDFA9752CEE8ED9032 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				2D60FCF3F4EB053A52ADCC762A2328A4 /* back.png */,
+				2BFDFDA62DF974AE00DE152785DC3916 /* homepage.png */,
 			);
-			name = Resources;
+			name = Assets;
+			path = "carousel-light/Assets";
 			sourceTree = "<group>";
 		};
 		DA979B47F849FA0E017FB6B49F3B1744 /* Nimble-Snapshots */ = {
@@ -1148,6 +1135,21 @@
 			);
 			name = "Nimble-Snapshots";
 			path = "Nimble-Snapshots";
+			sourceTree = "<group>";
+		};
+		E246329DC930F95DF6B34B261BE56F46 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				0FF9820C8A08ABF8735E5C31C2B347B0 /* carousel-light.modulemap */,
+				4E8D866357CE63D4EB6BC6EDE0982A2A /* carousel-light.xcconfig */,
+				597B5D58DF7D478D03DC0DA5C9A33F54 /* carousel-light-dummy.m */,
+				4FBE107B192740DE076DB70DF679E1BD /* carousel-light-prefix.pch */,
+				34BD9AF0DA68C1B92C8BD2641F5ED11F /* carousel-light-umbrella.h */,
+				6597E61542757644D6904072BE54D59C /* Info.plist */,
+				5851D65FB50DC6DDC26BB9980D16CF2A /* ResourceBundle-carousel-light-Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/carousel-light";
 			sourceTree = "<group>";
 		};
 		EC8DC8A06C4C6CDA3ED1BC716F5B5938 /* Products */ = {
@@ -1169,6 +1171,15 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		F0E02C4F23C65A34FCDD28C1A21BE1F3 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3F0517546CB0BAE265E574F1DD8778DB /* AirGap */,
+				88953AECC52C2D652EC73FF1EE3697D8 /* carousel-light */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		F32B6569ED6E9F844A909C2A330C4B9A /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -1180,17 +1191,6 @@
 				49B80BAAB0D46543F4262A639678CEBE /* Yaml */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		F3B1E2F122E46EE3DCF2B568BD15B3F0 /* RequestResponse */ = {
-			isa = PBXGroup;
-			children = (
-				43C654C401DFA4DAA064DBF16FDFC246 /* Request.swift */,
-				D81B813CA3337EBA4F44051124A30852 /* Response.swift */,
-				379DC2EF7F69222C6D0414582BA61E33 /* YURL.swift */,
-			);
-			name = RequestResponse;
-			path = AirGap/Classes/RequestResponse;
 			sourceTree = "<group>";
 		};
 		F7D02062E8F39A14453FEA1A82A89FA1 /* Support Files */ = {
@@ -1936,41 +1936,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		03AAD493E0D7A05F0A40E3AEA50A6BB1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90DDC7571173C1B667BC37469DC12D61 /* AirGap.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/AirGap/AirGap-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/AirGap/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/AirGap/AirGap.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = AirGap;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		055423804E2352C9E11BCF74F87E9AC2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B22466AE24E55C87E281C9FB16164918 /* FBSnapshotTestCase.xcconfig */;
@@ -2040,58 +2005,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		0741D641AD18387EC0E1AE703F294DEF /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DA96970BAB60B7D5C89A17278EBB3916 /* carousel-light.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/carousel-light/carousel-light-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/carousel-light/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/carousel-light/carousel-light.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = carousel_light;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		09011FE392DE2F0BA5156E66492BE087 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DA96970BAB60B7D5C89A17278EBB3916 /* carousel-light.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/carousel-light";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/carousel-light/ResourceBundle-carousel-light-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_NAME = "carousel-light";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
 		};
 		09E9A2A10D94881E21A18728511C269B /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -2163,20 +2076,55 @@
 			};
 			name = Release;
 		};
-		22431735068E1F3EFC91845680B65865 /* Debug */ = {
+		21C074FB841923EA8F083BAC53064187 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DA96970BAB60B7D5C89A17278EBB3916 /* carousel-light.xcconfig */;
+			baseConfigurationReference = 4E8D866357CE63D4EB6BC6EDE0982A2A /* carousel-light.xcconfig */;
 			buildSettings = {
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/carousel-light";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "Target Support Files/carousel-light/ResourceBundle-carousel-light-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_NAME = "carousel-light";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		2CDD105ACC6D6638C3F7099A691974FE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4E8D866357CE63D4EB6BC6EDE0982A2A /* carousel-light.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/carousel-light/carousel-light-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/carousel-light/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/carousel-light/carousel-light.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = carousel_light;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
@@ -2250,23 +2198,6 @@
 			};
 			name = Release;
 		};
-		4E2C9AD35E0CDBF10EC91C5D69CC5F79 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90DDC7571173C1B667BC37469DC12D61 /* AirGap.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/AirGap";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/AirGap/ResourceBundle-AirGap-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = AirGap;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
 		5742912001981B953B25EA15378D6395 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CC579C040006AA98CB2C1EC57D1764D3 /* Quick.xcconfig */;
@@ -2302,38 +2233,20 @@
 			};
 			name = Release;
 		};
-		65CF19307E7B2B0087D817B25BFD51E5 /* Release */ = {
+		67A85E5C04F033C147CF86CFFCA9F4B9 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DA96970BAB60B7D5C89A17278EBB3916 /* carousel-light.xcconfig */;
+			baseConfigurationReference = 2D56DF373C3A6D3D70C255E5E30C88EF /* AirGap.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/AirGap";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/carousel-light/carousel-light-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/carousel-light/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/carousel-light/carousel-light.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = carousel_light;
+				INFOPLIST_FILE = "Target Support Files/AirGap/ResourceBundle-AirGap-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				PRODUCT_NAME = AirGap;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -2372,46 +2285,24 @@
 			};
 			name = Debug;
 		};
-		880DBC3EF9BF903828227481B075543C /* Debug */ = {
+		83F281BEE095F30BE5D20C7474459691 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EB75898E7DCC6932B070872848FAE673 /* Pods-carousel-light_Tests.debug.xcconfig */;
+			baseConfigurationReference = 2D56DF373C3A6D3D70C255E5E30C88EF /* AirGap.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/AirGap";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-carousel-light_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-carousel-light_Tests/Pods-carousel-light_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_carousel_light_Tests;
+				INFOPLIST_FILE = "Target Support Files/AirGap/ResourceBundle-AirGap-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				PRODUCT_NAME = AirGap;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Debug;
 		};
-		9BFC9E4A7AAD7A607ACE06D95A401A5A /* Debug */ = {
+		97803B46811A9BDB5E70FA1303AFBFFE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -2451,7 +2342,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
@@ -2495,9 +2386,26 @@
 			};
 			name = Debug;
 		};
-		AD3E6678DF9D5011D888A42B541037C1 /* Release */ = {
+		ABF0AC6363B52C0D0AB9AD060D7F8BBB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90DDC7571173C1B667BC37469DC12D61 /* AirGap.xcconfig */;
+			baseConfigurationReference = 4E8D866357CE63D4EB6BC6EDE0982A2A /* carousel-light.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/carousel-light";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/carousel-light/ResourceBundle-carousel-light-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				PRODUCT_NAME = "carousel-light";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		ADC6FBCBE7639A495D73A45312FCEEC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FD37FD5958325F2559120ED00521B94F /* Pods-carousel-light_Example.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -2511,17 +2419,20 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/AirGap/AirGap-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/AirGap/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-carousel-light_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/AirGap/AirGap.modulemap";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-carousel-light_Example/Pods-carousel-light_Example.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = AirGap;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_carousel_light_Example;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -2564,82 +2475,6 @@
 			};
 			name = Debug;
 		};
-		B818F3D2AEAA0D1BC2082B444D6D0E38 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FD37FD5958325F2559120ED00521B94F /* Pods-carousel-light_Example.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-carousel-light_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-carousel-light_Example/Pods-carousel-light_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_carousel_light_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		BAF9967197A97CC99D537A1CBCF507A9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2F4160D2807E3A033ADC59CD23E66E33 /* Pods-carousel-light_Tests.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-carousel-light_Tests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-carousel-light_Tests/Pods-carousel-light_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_carousel_light_Tests;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		BCD7D420CDA909BC26117FAFEF2C4740 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8B3B88DA51ED8A23D2FD0FA69D2E6B1B /* Nimble-Snapshots.xcconfig */;
@@ -2675,7 +2510,7 @@
 			};
 			name = Release;
 		};
-		C03B8870130C98D1B02B59D003687524 /* Release */ = {
+		BDD0139D6EB93FA375F887ABD62DAB2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -2711,7 +2546,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
@@ -2719,7 +2554,154 @@
 			};
 			name = Release;
 		};
-		C3D2EB1B6769A5AE2AEA38558FE0A7A5 /* Debug */ = {
+		C52977401B78070D8362116394954470 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2D56DF373C3A6D3D70C255E5E30C88EF /* AirGap.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/AirGap/AirGap-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/AirGap/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/AirGap/AirGap.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = AirGap;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CB51604E42031908E40D05932E8D3563 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2F4160D2807E3A033ADC59CD23E66E33 /* Pods-carousel-light_Tests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-carousel-light_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-carousel-light_Tests/Pods-carousel-light_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_carousel_light_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D0AFB184B1C375E7A825C462925F81A0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2D56DF373C3A6D3D70C255E5E30C88EF /* AirGap.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/AirGap/AirGap-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/AirGap/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/AirGap/AirGap.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = AirGap;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D2B2733EE8EC0D070F8B708F5ECE5297 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EB75898E7DCC6932B070872848FAE673 /* Pods-carousel-light_Tests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-carousel-light_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-carousel-light_Tests/Pods-carousel-light_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_carousel_light_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		DF3FB8A95F5F4A259937693CFDE7F68D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1453181B7674E6DC04744F4284688A0B /* Pods-carousel-light_Example.debug.xcconfig */;
 			buildSettings = {
@@ -2737,7 +2719,7 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-carousel-light_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-carousel-light_Example/Pods-carousel-light_Example.modulemap";
@@ -2758,22 +2740,40 @@
 			};
 			name = Debug;
 		};
-		CB4AE633A08322B2F21C207B801CEE60 /* Debug */ = {
+		FEB9747FA5E0C6C3002EF73EEEBD6448 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90DDC7571173C1B667BC37469DC12D61 /* AirGap.xcconfig */;
+			baseConfigurationReference = 4E8D866357CE63D4EB6BC6EDE0982A2A /* carousel-light.xcconfig */;
 			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/AirGap";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/AirGap/ResourceBundle-AirGap-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = AirGap;
+				GCC_PREFIX_HEADER = "Target Support Files/carousel-light/carousel-light-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/carousel-light/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/carousel-light/carousel-light.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = carousel_light;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 		FF0A7ED21D22393C2F7F1E4B11ADA267 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -2815,8 +2815,8 @@
 		1C39B9C47FCCA0EAB8E0952E340F2D3F /* Build configuration list for PBXNativeTarget "AirGap-AirGap" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CB4AE633A08322B2F21C207B801CEE60 /* Debug */,
-				4E2C9AD35E0CDBF10EC91C5D69CC5F79 /* Release */,
+				83F281BEE095F30BE5D20C7474459691 /* Debug */,
+				67A85E5C04F033C147CF86CFFCA9F4B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2824,8 +2824,8 @@
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9BFC9E4A7AAD7A607ACE06D95A401A5A /* Debug */,
-				C03B8870130C98D1B02B59D003687524 /* Release */,
+				97803B46811A9BDB5E70FA1303AFBFFE /* Debug */,
+				BDD0139D6EB93FA375F887ABD62DAB2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2833,8 +2833,8 @@
 		2EF7DE59E3349EF7A12C207412EC185B /* Build configuration list for PBXNativeTarget "AirGap" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				03AAD493E0D7A05F0A40E3AEA50A6BB1 /* Debug */,
-				AD3E6678DF9D5011D888A42B541037C1 /* Release */,
+				C52977401B78070D8362116394954470 /* Debug */,
+				D0AFB184B1C375E7A825C462925F81A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2851,8 +2851,8 @@
 		3BA00D220EB94AD6B089DBBDE6A1D38F /* Build configuration list for PBXNativeTarget "carousel-light" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0741D641AD18387EC0E1AE703F294DEF /* Debug */,
-				65CF19307E7B2B0087D817B25BFD51E5 /* Release */,
+				2CDD105ACC6D6638C3F7099A691974FE /* Debug */,
+				FEB9747FA5E0C6C3002EF73EEEBD6448 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2860,8 +2860,8 @@
 		6288BE3F8F6BA2F126924E5123DDDDBC /* Build configuration list for PBXNativeTarget "Pods-carousel-light_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C3D2EB1B6769A5AE2AEA38558FE0A7A5 /* Debug */,
-				B818F3D2AEAA0D1BC2082B444D6D0E38 /* Release */,
+				DF3FB8A95F5F4A259937693CFDE7F68D /* Debug */,
+				ADC6FBCBE7639A495D73A45312FCEEC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2887,8 +2887,8 @@
 		BAC8CA3C6047DAD656993DF3841617E2 /* Build configuration list for PBXNativeTarget "Pods-carousel-light_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				880DBC3EF9BF903828227481B075543C /* Debug */,
-				BAF9967197A97CC99D537A1CBCF507A9 /* Release */,
+				D2B2733EE8EC0D070F8B708F5ECE5297 /* Debug */,
+				CB51604E42031908E40D05932E8D3563 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -2905,8 +2905,8 @@
 		DB9FA0EC61E2F7DA4654CB4497812189 /* Build configuration list for PBXNativeTarget "carousel-light-carousel-light" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				22431735068E1F3EFC91845680B65865 /* Debug */,
-				09011FE392DE2F0BA5156E66492BE087 /* Release */,
+				ABF0AC6363B52C0D0AB9AD060D7F8BBB /* Debug */,
+				21C074FB841923EA8F083BAC53064187 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -1,9 +1,9 @@
-platform :ios, '10.0'
+platform :ios, '9.0'
 use_frameworks!
 
 target 'carousel-light_Example' do
   pod 'carousel-light', :path => '../'
-  pod 'AirGap', :path => '../../air-gap/'
+  pod 'AirGap', :path => '~/Dev/Groupon/AirGap/'
 
   target 'carousel-light_Tests' do
     inherit! :search_paths
